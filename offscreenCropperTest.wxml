@@ -1,0 +1,5 @@
+<canvas id="previewCanvas" type="2d" style="width: {{canvasWidth}}px; height: {{canvasHeight}}px;" disable-scroll="true"
+  bindtouchstart="touchStart" bindtouchmove="touchMove" bindtouchend="touchEnd">
+</canvas>
+<image src="{{image}}" style="width : {{imageWidth}}px; height : {{imageHeight}}px;" />
+ 
